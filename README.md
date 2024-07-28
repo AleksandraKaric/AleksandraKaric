@@ -1,3 +1,7 @@
+
+**Aleksandra Karić**
+____
+    
     👋 Hello there!
 
   I am Aleksandra, a dedicated QA Engineer with a background in testing web and mobile applications, specializing in UI and functional testing. Skilled in identifying and resolving issues efficiently, focusing on delivering high-quality product.
