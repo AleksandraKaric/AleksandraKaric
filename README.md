@@ -21,7 +21,7 @@ ____
 
     📚 Learnings
 
-  Committed to continuous learning and improvement in the field of quality assurance. Alway lookin for interesting project. If know one, feel free to recommend it to me.
+  Committed to continuous learning and improvement in the field of quality assurance. Always looking for interesting projects. If you know one, feel free to recommend it to me.
 
 
 
