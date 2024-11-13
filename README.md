@@ -4,11 +4,13 @@ ____
     
     👋 Hello there!
 
-  I am Aleksandra, a dedicated QA Engineer with a background in testing web and mobile applications, specializing in UI and functional testing. Skilled in identifying and resolving issues efficiently, focusing on delivering high-quality product.
+  I am Aleksandra, a dedicated Automation QA Engineer with a background in testing web and mobile applications, specializing in UI and functional testing. Skilled in identifying and resolving issues efficiently, focusing on delivering high-quality product.
 
 ____
     📌 My work
 
+  **Java Coding** - few lines of code to switch to automation mod
+  
   **Documentation**  - test cases, improvements, bug reports, test runs...
   
   **API testing with Postman**  - Swagger Pet Store collection link and document
